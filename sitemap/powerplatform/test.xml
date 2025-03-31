@@ -1,0 +1,634 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://docs.siliconflow.cn/Introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/audio/create-audio-transcriptions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/audio/create-speech</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/audio/delete-voice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/audio/upload-voice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/audio/voice-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/cancel-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/create-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/get-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/get-batch-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/get-file-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/batch/upload-file</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/chat-completions/chat-completions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/chat-completions/chat-completions_copy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/embeddings/create-embeddings</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/images/images-generations</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/models/get-model-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/rerank/create-rerank</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/userinfo/get-user-info</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/videos/get_videos_status</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/api-reference/videos/videos_submit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/billing-rules</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/error-code</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/invoice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/misc</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/misc_finance</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/misc_rate</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/misc_use</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/faqs/stream-mode</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/legals/agreement-for-account-ownership-transfer</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/legals/privacy-policy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/legals/recharge-policy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/legals/terms-of-service</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/release-notes/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/awesome-user-cases</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-302ai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-DB-GPT</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-bob</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-chatbox</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-chathub</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-cherry-studio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-cline</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-cube-sugar-studio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-deep-research-web-ui</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-dify</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-fastgpt</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-immersive-translate</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-mindsearch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-nextchat</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-obsidian</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-openmanus</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-qingflow</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-sider</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-tomemo</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-trae</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-tyrion</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/usercases/use-siliconcloud-in-zadig</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/images</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/reasoning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/speech-to-text</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/text-generation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/text-to-speech</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/video</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/capabilities/vision</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/completions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/fim</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/fine-tune</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/function-calling</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/json-mode</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/json-mode-struct</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/guides/prefix</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/quickstart</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/rate-limits/rate-limit-and-upgradation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/cn/userguide/use-docs-with-cursor</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/audio/create-audio-transcriptions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/audio/create-speech</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/audio/delete-voice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/audio/upload-voice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/audio/voice-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/cancel-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/create-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/get-batch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/get-batch-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/get-file-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/batch/upload-file</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/chat-completions/chat-completions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/chat-completions/chat-completions_copy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/embeddings/create-embeddings</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/images/images-generations</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/models/get-model-list</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/rerank/create-rerank</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/userinfo/get-user-info</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/videos/get_videos_status</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/api-reference/videos/videos_submit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/billing-rules</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/error-code</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/error-codecopy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/invoice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/misc</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/misc_finance</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/misc_rate</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/misc_use</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/faqs/stream-mode</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/legals/agreement-for-account-ownership-transfer</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/legals/privacy-policy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/legals/recharge-policy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/legals/terms-of-service</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/release-notes/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/awesome-user-cases</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-302ai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-DB-GPT</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-bob</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-chatbox</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-chathub</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-cherry-studio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-cline</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-cube-sugar-studio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-deep-research-web-ui</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-dify</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-fastgpt</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-immersive-translate</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-mindsearch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-nextchat</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-obsidian</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-qingflow</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-sider</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-tomemo</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-trae</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-tyrion</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/usercases/use-siliconcloud-in-zadig</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/images</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/reasoning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/speech-to-text</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/text-generation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/text-to-speech</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/video</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/capabilities/vision</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/completions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/fim</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/fine-tune</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/function-calling</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/json-mode</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/json-mode_struct</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/prefix</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/guides/structured_outputs</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/quickstart</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/rate-limits/rate-limit-and-upgradation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/en/userguide/use-docs-with-cursor</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/pods/pods-introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/quickstart/models</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.siliconflow.cn/usercases/use-siliconcloud-in-chathub.mdx</loc>
+  </url>
+</urlset>
